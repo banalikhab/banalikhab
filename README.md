@@ -17,7 +17,7 @@
 
 ###
 
-<img align="middle" height="160" src="https://cdn.tech.eu/uploads/2023/12/provenrun-374.gif"  />
+<img align="left" height="160" src="https://cdn.tech.eu/uploads/2023/12/provenrun-374.gif"  />
 
 ###
 
