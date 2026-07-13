@@ -17,11 +17,11 @@
 
 ###
 
-<img align="left" height="160" src="https://cdn.tech.eu/uploads/2023/12/provenrun-374.gif"  />
+<img align="middle" height="160" src="https://cdn.tech.eu/uploads/2023/12/provenrun-374.gif"  />
 
 ###
 
-<img align="left" height="160" src="https://tangerine-starburst-d320b1.netlify.app/_next/image?url=https%3A%2F%2Fmedia1.tenor.com%2Fm%2Fow94qLGI8WsAAAAC%2Fai.gif&w=1200&q=75"  />
+<img align="right" height="160" src="https://tangerine-starburst-d320b1.netlify.app/_next/image?url=https%3A%2F%2Fmedia1.tenor.com%2Fm%2Fow94qLGI8WsAAAAC%2Fai.gif&w=1200&q=75"  />
 
 ###
 
