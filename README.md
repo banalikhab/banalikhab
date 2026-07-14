@@ -9,31 +9,7 @@
 
 <br clear="both">
 
-<h2 align="center">🛠️ Technologies That Shape My Projects</h2>
 
-###
-
-<img align="left" height="160" src="https://miro.medium.com/v2/resize:fit:866/1*h1dUrjhkHzMU46jW1cQjAg.gif"  />
-
-###
-
-<img align="left" height="160" src="https://cdn.tech.eu/uploads/2023/12/provenrun-374.gif"  />
-
-###
-
-<img align="right" height="160" src="https://tangerine-starburst-d320b1.netlify.app/_next/image?url=https%3A%2F%2Fmedia1.tenor.com%2Fm%2Fow94qLGI8WsAAAAC%2Fai.gif&w=1200&q=75"  />
-
-###
-
-<img align="left" height="160" src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1"  />
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
 
 
 
